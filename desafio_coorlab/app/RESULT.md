@@ -1,4 +1,4 @@
-# Resultado - Desáfio CoorLab
+# Resultado - Desafio CoorLab
 
 A fim de realizar o Desafio Coorlab proposto, foi necessário um estudo sobre as tecnologias Vue.js e FastAPI.
 
